@@ -1,0 +1,6 @@
+tools
+nvram
+*.o
+*.exe
+*.elf
+*.iso
